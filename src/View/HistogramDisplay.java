@@ -1,4 +1,7 @@
-package kata2_2020;
+package View;
+
+import Model.Histogram;
+
 public class HistogramDisplay {
     private final Histogram histogram;
 
